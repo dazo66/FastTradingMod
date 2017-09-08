@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fastcrafting",
+  "name": "TCFastCrafting",
+  "description": "TC FastCrafting mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dazo66"],
+  "credits": "快速合成，省去再点一下的步骤，可以配合shift快速合成一组。",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
