@@ -1,14 +1,14 @@
 [
 {
-  "modid": "fastcrafting",
-  "name": "TCFastCrafting",
-  "description": "TC FastCrafting mod.",
+  "modid": "fasttrading",
+  "name": "TCFastTrading",
+  "description": "TC FastTrading mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
-  "updateUrl": "",
-  "authorList": ["Dazo66"],
-  "credits": "快速合成，省去再点一下的步骤，可以配合shift快速合成一组。",
+  "updateUrl": "https://tieba.baidu.com/p/5141688331",
+  "authorList": ["Dazo66 MC_Eden"],
+  "credits": "1.按下F4切换开启或者关闭快速交易功能.\n2.可以在mod option里面当前mod的config页面进行配置需要的交易项.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
