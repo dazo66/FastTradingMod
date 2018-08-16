@@ -1,8 +1,4 @@
 # FastTradingMod
 
-如果要对mod代码进行研究做以下步骤
-
-1.自行配置好forge的开发环境
-2.将src文件夹复制到开发目录下替换原来的src文件夹。
-
-有更好的实现和建议欢迎提出。
+此项目已过时
+此项目在(BetterClient)[https://github.com/dazo66/BettterClient-1.12.2] 中被完全重写
